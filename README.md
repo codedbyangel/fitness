@@ -133,4 +133,4 @@ Admin	admin@test.com   admin123
 Trainer	trainer1@test.com   trainer123
 User	user1@test.com   user123
 
-## 👩‍💻 Developed By: 
+## 👩‍💻 Developed By: Team G
